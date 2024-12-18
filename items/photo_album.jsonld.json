@@ -1,0 +1,77 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Book",
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1215708"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1109297"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1198486"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1726784"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/840551"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/989798"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1423689"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1205775"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1004959"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/salt_springs.pdf"
+  },
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1930"
+  },
+  "schema:description": "The photograph album measures 11 ¼” x 7 ½” and is bound in black-cloth covered limp boards with a tied binding. It contains sixteen pages of photographs plus blanks, comprising 96 original photographs, all but 8 are affixed to the pages within the album by paper corner hinges and mounted to the pages. Each print is 2 ¾” x 4 ½” (or the reverse), with several that are smaller; all but the last five pages of photos (19 photos) contain period identifying captions, lettered in white on the black paper beneath every photograph. Only 1 of the 8 loose photos is labeled, but undated. The album’s photographs are dated from at least June 1929 to Feb 1930. The photographs document some of the process of constructing the dam, such as the construction machinery shoveling, digging, hauling, dumping, accidents that damaged machinery, etc. There are also overall images depicting the layout of the camp and showing the housing – including a few interior views of one bunkhouse, and images of the results of a hunting expedition. Also, there are several images of the dam face in 1929, the Crusher plant, as well as drill, and quarry. It also includes a selection of the photographer’s leisurely pursuits, and his appreciation of the local scenery.",
+  "schema:identifier": [
+    "ark:/87293/d3vq2sh0f",
+    "MC-371"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/MC371_01.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "11 ¼” x 7 ½”. Bound in black cloth covered limp boards with a tied binding.",
+  "schema:name": "Salt Springs Dam Photograph Album",
+  "schema:publisher": "UC Davis, Archives and Special Collections",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2024"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "1929 - 1930"
+}

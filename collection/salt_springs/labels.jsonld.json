@@ -1,0 +1,48 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1004959",
+    "http://schema.org/name": "Machinery"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1109297",
+    "http://schema.org/name": "Scrapbooks"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1198486",
+    "http://schema.org/name": "Dams"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1205775",
+    "http://schema.org/name": "California--Amador County"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1215708",
+    "http://schema.org/name": "California--Calaveras County"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1423689",
+    "http://schema.org/name": "Photography"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1726784",
+    "http://schema.org/name": "Albums (Books)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/840551",
+    "http://schema.org/name": "Building"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/989798",
+    "http://schema.org/name": "Labor"
+  }
+]
