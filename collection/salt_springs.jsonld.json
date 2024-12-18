@@ -50,6 +50,10 @@
     "@value": "2024"
   },
   "schema:description": "This photograph album contains 96 original black and white snapshots, mostly depicting the construction of the Salt Springs Dam on the North Fork of the Mokelumne River in Amador and Calaveras Counties, California. The photos date from 1929 to 1930. The Salt Springs Dam was started in 1926 and completed in 1931 and had at one point over 1,700 people employed on its construction. It formed the Salt Springs Reservoir located in the eastern portions of Amador County and Calaveras County of California in the Sierra Nevada. \n\n The collection’s finding aid is available at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8t15bjh/)",
+  "schema:identifier": [
+    "ark:/87293/d3qn5zj7j",
+    "MC-371"
+  ],
   "schema:image": {
     "@id": "info:fedora/item/ark:/87293/d3vq2sh0f/media/images/MC371_19g.tif"
   },
