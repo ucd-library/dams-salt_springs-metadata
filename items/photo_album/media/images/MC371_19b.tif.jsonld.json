@@ -14,6 +14,7 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
+  "schema:position": "30",
   "ebucore:filename": "MC371_19b.tif",
   "ebucore:hasMimeType": "image/tiff"
 }
